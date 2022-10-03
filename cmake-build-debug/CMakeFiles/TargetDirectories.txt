@@ -1,0 +1,3 @@
+D:/Clion Programming C++/goto Statement/cmake-build-debug/CMakeFiles/goto_Statement.dir
+D:/Clion Programming C++/goto Statement/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Clion Programming C++/goto Statement/cmake-build-debug/CMakeFiles/rebuild_cache.dir
